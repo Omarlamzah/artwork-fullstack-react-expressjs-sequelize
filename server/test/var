@@ -1,0 +1,6 @@
+  user: '{"id":"114879216810374376944","displayName":"Omar lamzah","name":{"familyName":"lamzah","givenName":"Omar"},"photos":[{"value":"https://lh3.googleuserconten
+t.com/a/ACg8ocLpaZDfKMIaGBm4vbFGSTzvhsTJBTcackg-9GCE3NagHs8=s96-c"}],"provider":"google","_raw":"{\\n  \\"sub\\": \\"114879216810374376944\\",\\n  \\"name\\": \\"Oma
+r lamzah\\",\\n  \\"given_name\\": \\"Omar\\",\\n  \\"family_name\\": \\"lamzah\\",\\n  \\"picture\\": \\"https://lh3.googleusercontent.com/a/ACg8ocLpaZDfKMIaGBm4vbF
+GSTzvhsTJBTcackg-9GCE3NagHs8\\\\u003ds96-c\\",\\n  \\"locale\\": \\"fr\\"\\n}","_json":{"sub":"114879216810374376944","name":"Omar lamzah","given_name":"Omar","famil
+y_name":"lamzah","picture":"https://lh3.googleusercontent.com/a/ACg8ocLpaZDfKMIaGBm4vbFGSTzvhsTJBTcackg-9GCE3NagHs8=s96-c","locale":"fr"}}'
+}

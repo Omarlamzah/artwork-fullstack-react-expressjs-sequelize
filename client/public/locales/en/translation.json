@@ -1,0 +1,28 @@
+{
+    "nav": {
+      "login": "login",
+      "regester": "regester",
+      "loginbygoogle": " login by google"
+    },
+    "price":"price",
+    "oldprice":"older price",
+
+
+
+    "profile": {
+      "update": "update",
+      "createat":"create at","updateat": "last update at",
+      "share":"share"
+    
+    },
+    "upload":"upload",
+    "creatework":"create work",
+    "close":"close",
+    "desc":"description ",
+    "cate":"category",
+    "namework":"work name",
+    "home":"back home"
+  
+
+
+  }

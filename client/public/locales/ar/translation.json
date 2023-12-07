@@ -1,0 +1,26 @@
+{
+    "nav": {
+      "login": "تشجيل",
+      "regester": "إنشاء حساب",
+      "loginbygoogle": "  googleتشجيل عن  "
+    },
+
+    "price":"ثمن",
+    "oldprice":"ثمن القديم",
+
+    "profile": {
+      "update": "تعديل",
+      "createat":"أنشء في",
+      "updateat":" أخر تعديل في",
+      "share":"مشاركة"
+
+    
+    },
+    "upload":"إرفع",
+    "creatework":"إنشاء عمل جدد",
+    "close":"إغلاق",
+    "desc":"وصف العمل ",
+    "cate":"الصنف",
+    "namework":"إسم عملك",
+    "home":"الصفحة الرئسة"
+  }
